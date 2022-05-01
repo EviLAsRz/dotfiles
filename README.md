@@ -20,7 +20,7 @@ Computer Engineering Student In University of Cádiz.
 
 ## PowerShell Setup (Windows 11)
  - [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) - Fonts code friendy, you will love them!.
- - [Scoop](https://scoop.sh/) - Command-line Installer.
+ - [Git](https://gitforwindows.org/) - Git for windows.
  - [Scoop](https://scoop.sh/) - Command-line Installer.
  - [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - Colorful icons.
  - [psreadline](https://docs.microsoft.com/en-us/powershell/module/psreadline/?view=powershell-7.2) - Autocompletions.
