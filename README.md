@@ -16,7 +16,6 @@ Computer Engineering Student In University of Cádiz.
 ## Contents
 
  - Oh-my-posh (Windows 11 PowerShell)
- - TBD
 
 ## PowerShell Setup (Windows 11)
  - [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) - Fonts code friendy, you will love them!.
